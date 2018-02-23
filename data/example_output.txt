@@ -1,0 +1,78 @@
+4
+data/hahaweb.md
+data/yamibuy.md
+data/piazza.md
+data/uscbits.md
+1
+data/uscbits.md
+1
+data/uscbits.md
+1
+data/yamibuy.md
+1
+data/yamibuy.md
+6
+data/hahaweb.md
+data/yamibuy.md
+data/piazza.md
+data/testweb.md
+data/uscbits.md
+data/CS104.md
+4
+data/hahaweb.md
+data/yamibuy.md
+data/piazza.md
+data/uscbits.md
+0
+data/uscbits.md
+Course Links
+Welcome to USC CS and EE course pages hosted on bits.usc.edu. Select a course below :
+
+[CS 104, Data Structures & Object-Oriented Design]
+[CS 350, Introduction to Operating Systems]
+[EE 209, Introduction to Digital System Design]
+[EE 355, Software Design, Not available]
+[EE 457, Computer Systems Organization]
+USC CS and EE course pages hosted on bytes.usc.edu. Select a course below :
+
+[CS 102, Foundations of Computation]
+[CS 103, Introduction to Programming]
+[EE 109, Introduction to Embedded Systems]
+[Github Signup Info, Necessary for all students]
+All students should follow the these instructions to signup on Github to be able to login to our system.
+Don't forget this page!
+data/nonsense.md
+#!@$%$^%#@%$#@@%$#!%@$!#%$#!$#""
+#@$!$%#@$@#@$#!$%#%$#$%@#!@%#%@$#!
+$!#@%$#@%$%$$%##$$#!@$%@!#$@%$!%$
+$%!$#%!$#$@$%#!@%$#^$!%$#^@
+!#%@$%##@$%#^$@#$!%@^@%$##	~~~~~t
+9
+CS102.md
+CS103.md
+CS104.md
+CS350.md
+EE109.md
+EE209.md
+EE355.md
+EE457.md
+github.md
+1
+data/piazza.md
+1
+data/yamibuy.md
+3
+data/hahaweb.md
+data/yamibuy.md
+data/uscbits.md
+0
+Invalid query
+Invalid query
+Invalid query
+Invalid query
+Invalid query
+Invalid query
+Invalid query
+Invalid query
+Invalid query
+Invalid query

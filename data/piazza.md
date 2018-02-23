@@ -1,3 +1,4 @@
+Welcome to piazza!
 ahhhhhhhh!!!! where is my VM?
 Aaron please see [VM_manual](VM_manual.md)
 

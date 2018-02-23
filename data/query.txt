@@ -3,16 +3,23 @@ AND welcome usc
 AND wElcOme uSc
 AND don crisps
 AND don CRiSps
+t
+AND don t
 AND AND OR PRINT OUTGOING INCOMING
-PRINT uscbits.md
-PRINT nonsense.md
-OUTGOING uscbits.md
+PRINT data/uscbits.md
+PRINT data/nonsense.md
+OUTGOING data/uscbits.md
 see
 Desserts
 OR usc USC Crisps great
 AND $!#%#@!$ s !#$***
 PRINT ******
-PRINT yamibuy.md hahaweb.md
-INCOMING hahaweb.md yamibuy.md
-OUTGOING hahaweb.md yamibuy.md
-KDJSAFK hahaweb.md
+PRINT wda.txt
+OUTGOING ads$!#%#@!$
+INCOMING ads$!#%#@!$
+OUTGOING wda.txt
+INCOMING wda.txt
+PRINT data/yamibuy.md data/hahaweb.md
+INCOMING data/hahaweb.md data/yamibuy.md
+OUTGOING data/hahaweb.md data/yamibuy.md
+KDJSAFK data/hahaweb.md

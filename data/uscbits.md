@@ -13,3 +13,4 @@ USC CS and EE course pages hosted on bytes.usc.edu. Select a course below :
 [EE 109, Introduction to Embedded Systems](EE109.md)
 [Github Signup Info, Necessary for all students](github.md)
 All students should follow the these instructions to signup on Github to be able to login to our system.
+Don't forget this page!

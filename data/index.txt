@@ -1,7 +1,7 @@
-hahaweb.md
-yamibuy.md
-piazza.md
-testweb.md
-nonsense.md
-uscbits.md
-CS104.md
+data/hahaweb.md
+data/yamibuy.md
+data/piazza.md
+data/testweb.md
+data/nonsense.md
+data/uscbits.md
+data/CS104.md
