@@ -77,7 +77,7 @@ data/hahaweb.md
 data/yamibuy.md
 data/uscbits.md
 data/CS104.md
-Invalid query
+0
 Invalid query
 Invalid query
 Invalid query
