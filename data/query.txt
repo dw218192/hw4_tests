@@ -9,6 +9,8 @@ AND AND OR PRINT OUTGOING INCOMING
 PRINT data/uscbits.md
 PRINT data/nonsense.md
 OUTGOING data/uscbits.md
+INCOMING data/CS104.md
+INCOMING data/piazza.md
 see
 Desserts
 OR usc USC Crisps great

@@ -1,7 +1,7 @@
 Course Links
 Welcome to USC CS and EE course pages hosted on bits.usc.edu. Select a course below :
 
-[CS 104, Data Structures & Object-Oriented Design](CS104.md)
+[CS 104, Data Structures & Object-Oriented Design](data/CS104.md)
 [CS 350, Introduction to Operating Systems](CS350.md)
 [EE 209, Introduction to Digital System Design](EE209.md)
 [EE 355, Software Design, Not available](EE355.md)
@@ -13,4 +13,5 @@ USC CS and EE course pages hosted on bytes.usc.edu. Select a course below :
 [EE 109, Introduction to Embedded Systems](EE109.md)
 [Github Signup Info, Necessary for all students](github.md)
 All students should follow the these instructions to signup on Github to be able to login to our system.
+Piazza is a place where you can get the most help from! [click here to enter](data/piazza.md)
 Don't forget this page!

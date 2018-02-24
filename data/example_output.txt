@@ -3,18 +3,21 @@ data/hahaweb.md
 data/yamibuy.md
 data/piazza.md
 data/uscbits.md
-1
+2
 data/uscbits.md
-1
+data/CS104.md
+2
 data/uscbits.md
+data/CS104.md
 1
 data/yamibuy.md
 1
 data/yamibuy.md
-6
+7
 data/hahaweb.md
 data/yamibuy.md
 data/piazza.md
+data/nonsense.md
 data/testweb.md
 data/uscbits.md
 data/CS104.md
@@ -40,6 +43,7 @@ USC CS and EE course pages hosted on bytes.usc.edu. Select a course below :
 [EE 109, Introduction to Embedded Systems]
 [Github Signup Info, Necessary for all students]
 All students should follow the these instructions to signup on Github to be able to login to our system.
+Piazza is a place where you can get the most help from! [click here to enter]
 Don't forget this page!
 data/nonsense.md
 #!@$%$^%#@%$#@@%$#!%@$!#%$#!$#""
@@ -47,25 +51,33 @@ data/nonsense.md
 $!#@%$#@%$%$$%##$$#!@$%@!#$@%$!%$
 $%!$#%!$#$@$%#!@%$#^$!%$#^@
 !#%@$%##@$%#^$@#$!%@^@%$##	~~~~~t
-9
+10
 CS102.md
 CS103.md
-CS104.md
 CS350.md
 EE109.md
 EE209.md
 EE355.md
 EE457.md
+data/CS104.md
+data/piazza.md
 github.md
+1
+data/uscbits.md
+3
+data/CS104.md
+data/piazza.md
+data/uscbits.md
 1
 data/piazza.md
 1
 data/yamibuy.md
-3
+4
 data/hahaweb.md
 data/yamibuy.md
 data/uscbits.md
-0
+data/CS104.md
+Invalid query
 Invalid query
 Invalid query
 Invalid query

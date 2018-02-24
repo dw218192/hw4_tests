@@ -22,3 +22,5 @@ Please specify the problem
 
 can I add new member functions to my stack?
 see [uscbits](uscbits.md)
+
+self-link [piazza](data/piazza.md)
