@@ -11,6 +11,7 @@ PRINT data/nonsense.md
 OUTGOING data/uscbits.md
 INCOMING data/CS104.md
 INCOMING data/piazza.md
+OUTGOING data/repeatedLink.md
 see
 Desserts
 OR usc USC Crisps great
@@ -25,3 +26,30 @@ PRINT data/yamibuy.md data/hahaweb.md
 INCOMING data/hahaweb.md data/yamibuy.md
 OUTGOING data/hahaweb.md data/yamibuy.md
 KDJSAFK data/hahaweb.md
+you
+yeah
+you
+AND your necessary requirements
+OR your tolerated team submissions strategy
+I
+don't
+need that
+OUTGOING data/wiki/Mechanical.md
+availability
+or your constant
+INCOMING   data/wiki/Controls.md
+AND
+OUTGOING   data/wiki/Controls.md
+.
+AND Throw
+OR discard
+your old AND responsible roots
+.
+Just
+PRINT data/wiki/Strategy.md
+ORplans
+"immediately"
+AND with enough dialog from FIRST in an ExTeRnAl change to browse it with your name
+OR YOUR PERFECT RULES
+AND conseq uences will be created
+50px
