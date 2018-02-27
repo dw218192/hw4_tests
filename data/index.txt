@@ -34,3 +34,6 @@ data/resources/attendance.md
 data/resources/frc-overview.md
 data/resources/leadership.md
 data/contract.md
+stress/lorem.txt
+stress/dictionary.txt
+stress/definitions.txt
